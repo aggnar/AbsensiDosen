@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "831215285244",
+    "firebase_url": "https://absensi-dosen.firebaseio.com",
+    "project_id": "absensi-dosen",
+    "storage_bucket": "absensi-dosen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831215285244:android:6ac9f680f1b1a16b",
+        "android_client_info": {
+          "package_name": "com.vincent.absensidosen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831215285244-gk32gtesu1v1b0obckgusb46kt0qdg2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoVc1kn_CVu71tsCe-U9jBZj4_qD2oHy8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
