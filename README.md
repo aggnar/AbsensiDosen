@@ -1,2 +1,5 @@
 # AbsensiDosen
-Project buat skripsi (development mode)
+
+Project skrispi
+
+Jangan lupa buat edit google-services.json sesuai dengan console firebase.
